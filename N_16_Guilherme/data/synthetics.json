@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "section": "BOOT Chips",
+        "type": "Acceleration",
+        "brand": "TESSERACT",
+        "model": "PE301C",
+        "image": "Images/SandevistanApogee.png",
+        "detail_url": "TESSERACT_PE301C.php"
+    },
+    {
+        "id": 2,
+        "section": "BOOT Chips",
+        "type": "Melee",
+        "brand": "TRADTECH",
+        "model": "Martial Library CoreV5",
+        "image": "Images/ArasakaShadow.png",
+        "detail_url": "TradTech_Martial_Library_CoreV5.php"
+    },
+    {
+        "id": 3,
+        "section": "BOOT Chips",
+        "type": "Firearm",
+        "brand": "TESSERACT",
+        "model": "Firearm Formula L2",
+        "image": "Images/BerserkC4.png",
+        "detail_url": "TESSERACT_Firearm_Formula_L2.php"
+    },
+    {
+        "id": 4,
+        "section": "Spine: Cervical",
+        "type": "Acceleration",
+        "brand": "TESSERACT",
+        "model": "CRS6",
+        "image": "Images/SynapticAccelerator.png",
+        "detail_url": "TESSERACT_CRS6.php"
+    },
+    {
+        "id": 5,
+        "section": "Spine: Vertebrae",
+        "type": "Acceleration",
+        "brand": "LUCHSHAYA-TEKH",
+        "model": "SSE4",
+        "image": "Images/Kerenzikov.png",
+        "detail_url": "LUCHSHAYA-TEKH_SSE4.php"
+    },
+    {
+        "id": 6,
+        "section": "Lungs",
+        "type": "Melee",
+        "brand": "TRADTECH",
+        "model": "Warrior Lungs",
+        "image": "Images/PainDistributor.png",
+        "detail_url": "TradTech_Warrior_Lungs.php"
+    }
+]
